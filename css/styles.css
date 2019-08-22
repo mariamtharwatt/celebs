@@ -1,0 +1,25 @@
+
+
+body {
+	background-image: url(../images/bg1.jpg);
+}
+p{
+	font-family: verdana;
+	font-size: 15px;
+}
+img {
+	border:5px solid black ;
+}
+
+a {
+	color:white;
+	background-color: black;
+	padding:20px 60px;
+	display: inline-block;
+	border-radius: 44px;
+}
+
+
+div {
+	margin-top: 400px;
+}
