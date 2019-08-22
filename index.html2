@@ -1,2 +1,28 @@
-<head>
-<body>
+<HTML>
+			<HEAD>
+			<TITLE>top secret</title>
+			<link rel="stylesheet" href="css/styles.css">
+			</HEAD>
+			<body>
+			<center>
+<H1>Elissa</H1>
+<p>the artist ellisa surprised her audience with a shocking news announcing her retirement</p>
+<IMG SRC="images/un.jpg" width="180" height="150"> <br>
+<a href="ind.html"> READ MORE</a>
+<H2>tamer hosny</H2>
+<p>egyption artist tamer hosny say that he will not partcipate in the third season of the voice kids</p>
+<IMG SRC="images/unti.jpg" width="180" height="160"> <br>
+<a href="ind.html"> READ MORE</a> <br>
+<H2>karim abdel aziz and nelly karim</H2>
+<p>screening the second part of the blue elephant</p>
+<IMG SRC="images/untitl.jpg" width="180" height="180"> <br>
+<a href="ind.html"> READ MORE</a> <br>
+<H2>ahmed ezz and amr youssef</H2>
+<p>screening the second part of risk's sons</p>
+<IMG SRC="images/ahmed.jpg" width="180" height="160"> <br>
+<a href="ind.html"> READ MORE</a> <br>
+<H2>wama band</H2>
+<p>new album to wama band after many years</p>
+<IMG SRC="images/wama.jpg" width="180" height="160"> <br>
+<a href="ind.html"> READ MORE</a>
+</center>
