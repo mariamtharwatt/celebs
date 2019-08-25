@@ -6,6 +6,7 @@ body {
 p{
 	font-family: verdana;
 	font-size: 15px;
+
 }
 img {
 	border:5px solid black ;
@@ -13,13 +14,72 @@ img {
 
 a {
 	color:white;
-	background-color: black;
+	background-color: #909090;
 	padding:20px 60px;
-	display: inline-block;
+	display:inline-block;
 	border-radius: 44px;
 }
 
 
 div {
-	margin-top: 400px;
+	margin-top: 10px;
 }
+
+	.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color:white;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+</style>
+
+<div class="dropdown">
+  <span>Mouse over me</span>
+  <div class="dropdown-content">
+    <p>Hello World!</p>
+  </div>
+</div>
+
+	
+	
+	.navbar-brand .collapse .navbar-collapse{
+		
+		margin-top:4px;
+		
+	}
+
+
+body{
+	
+	text-align:center;
+}
+
+
+hr{
+	
+	
+	
+	width:auto;
+	margin-left:auto;
+	height:auto;
+	background-color:100px;
+	opacity:2;
+}
+.searchmargin
+{
+	margin-left: 550px;
+}
+
+.navbar-light .navbar-brand { color:white;}
